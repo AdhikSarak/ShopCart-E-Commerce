@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545518802114",
+    "project_id": "shiv-c2271",
+    "storage_bucket": "shiv-c2271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545518802114:android:dcc55fbb0092dee4ead75b",
+        "android_client_info": {
+          "package_name": "com.example.shiv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnxIbOSNqiLLifEaupkQBduv7ssQDFB_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

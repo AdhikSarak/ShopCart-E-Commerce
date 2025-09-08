@@ -1,0 +1,75 @@
+{
+        "categories": [
+                {
+                        "name": "Women Dress",
+                        "subcategory": [
+                                "Wedding and Events",
+                                "Tops and Sets",
+                                "Watches"
+                        ]
+                },
+                {
+                        "name": "Men Clothing",
+                        "subcategory": [
+                                "Outwear and Jackets",
+                                "Formal Dress",
+                                "Accessories"
+                        ]
+                },
+                {
+                        "name": "Computer and Accessories",
+                        "subcategory": [
+                                "Laptop",
+                                "Gaming PC",
+                                "Office Equipment"
+                        ]
+                },
+                {
+                        "name": "Automobiles",
+                        "subcategory": [
+                                "Cars",
+                                "Bikes"
+                        ]
+                },
+                {
+                        "name": "Kids and Toys",
+                        "subcategory": [
+                                "Shoes and Bags",
+                                "Baby Clothing",
+                                "Girls Toys"
+                        ]
+                },
+                {
+                        "name": "Sports",
+                        "subcategory": [
+                                "Cycling",
+                                "Swimming",
+                                "Sneakers"
+                        ]
+                },
+                {
+                        "name": "Jewellery",
+                        "subcategory": [
+                                "Necklace",
+                                "Gold",
+                                "Earring"
+                        ]
+                },
+                {
+                        "name": "CellPhone and Tab",
+                        "subcategory": [
+                                "Smartphones",
+                                "Tab",
+                                "Accessories"
+                        ]
+                },
+                {
+                        "name": "Furniture",
+                        "subcategory": [
+                                "Sofa",
+                                "Bed",
+                                "Home Textile"
+                        ]
+                }
+        ]
+}
